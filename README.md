@@ -25,7 +25,7 @@ Step 3: Configure Firewall Zone
 
     Go to Network > Firewall (Zones) and click on Edit next to the guest zone.
     make it look like this
-    ![image](https://github.com/potatosips/openwrt-guest-SSID/assets/118026260/f099f969-0a52-40e1-bf08-1d32a3afc917)
+![image](https://github.com/potatosips/openwrt-guest-SSID/assets/118026260/f099f969-0a52-40e1-bf08-1d32a3afc917)
 
     Click on Save and then Save & Apply.
 
@@ -33,7 +33,7 @@ Step 5: Add a Traffic Rule
 
     Go to Network > Firewall > Traffic Rules and click on Add.
     make it look like this
-    ![image](https://github.com/potatosips/openwrt-guest-SSID/assets/118026260/60ace02a-707f-42a1-8366-71116ac13cf6)
+![image](https://github.com/potatosips/openwrt-guest-SSID/assets/118026260/60ace02a-707f-42a1-8366-71116ac13cf6)
 
 
     Click on Save and then Save & Apply.
@@ -41,7 +41,7 @@ Step 5: Add a Traffic Rule
 Step 6: Edit a Wireless AP
 
     Go to Network > Wireless and click on Edit next to the wireless AP that you want to use for the guest network. You can also create a new wireless AP by clicking on Add.
-    ![image](https://github.com/potatosips/openwrt-guest-SSID/assets/118026260/8c9b54c6-f727-48bf-b4f4-c82344253dcc)
+![image](https://github.com/potatosips/openwrt-guest-SSID/assets/118026260/8c9b54c6-f727-48bf-b4f4-c82344253dcc)
 
     Click on Save and then Save & Apply.
 
@@ -50,7 +50,7 @@ Step 7: Isolate Clients
     Go to Network > Wireless and click on Advanced Settings next to the wireless AP that you are using for the guest network.
     Check the box next to Isolate Clients. This will prevent the guest devices from communicating with each other on the same wireless network.
     It should look like this:
-    ![image](https://github.com/potatosips/openwrt-guest-SSID/assets/118026260/1907e0f8-21d0-4df1-aeb9-cd1044bb6e6e)
+![image](https://github.com/potatosips/openwrt-guest-SSID/assets/118026260/1907e0f8-21d0-4df1-aeb9-cd1044bb6e6e)
 
     Click on Save and then Save & Apply.
 
